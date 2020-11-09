@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*Chinese Song Recommender*
+# Chinese Song Recommender
+*Any song you want, we can find you a Chinese matchr*
 
 *Data-analytics, BCN & October-2020*
 
