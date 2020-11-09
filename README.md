@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Chinese Song Recommender
-*Any song you want, we can find you a Chinese matchr*
+*Any song you want, we can find you a Chinese match*
 
 *Data-analytics, BCN & October-2020*
 
